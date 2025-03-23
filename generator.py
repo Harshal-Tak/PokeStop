@@ -17,5 +17,5 @@ def generate_answer(query, context):
     - If the context does not contain the answer, say "I don't know."
     """
 
-    response = ollama.generate(model='llama3.1:latest',prompt=prompt)
+    response = ollama.generate(model='mistral:latest',prompt=prompt)
     return response['response']
