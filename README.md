@@ -61,3 +61,11 @@ For example:
 Context: `"Name: Bulbasaur, Type 1: Grass, Type 2: Poison"`
 
 Answer: `"Bulbasaur is a Grass and Poison type Pokémon."`
+
+
+# UI Screenshots
+![image](https://github.com/user-attachments/assets/fb0e4931-f888-48e4-aea8-abd00080d485)
+![image](https://github.com/user-attachments/assets/4160084f-12af-4826-b67a-f85962c85a6c)
+![image](https://github.com/user-attachments/assets/4cfea8fa-5e2b-4e14-9be7-fe0a9f94a4cd)
+
+
